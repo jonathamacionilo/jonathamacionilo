@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 
 
-- 🔭 Suporte Técnico N1
+- 🔭 Analista de sustentação Sênior
 - 🌱 Estudando Python
 - 📫 Contate-me no email: jonathamacionilo@gmail.com
 - 😄 Pronouns: ele/dele
